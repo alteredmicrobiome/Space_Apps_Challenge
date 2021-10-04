@@ -1,3 +1,4 @@
+// THIS CODE MUST BE COPIED TO GOOGLE EARTH ENGINE CODE EDITOR TO RUN THE APP.
 /**
  * Function to mask clouds based on the pixel_qa band of Landsat 8 SR data.
  * @param {ee.Image} image input Landsat 8 SR image
